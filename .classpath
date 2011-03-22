@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.4"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwtupload-0.6.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwtupload-gae-0.6.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/androidmarketapi-0.3.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/SuperCSV-with_src-1.52.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/spiffy-with_source-all-0.05.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
